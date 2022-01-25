@@ -8,11 +8,59 @@
       "locals": {
         "top": [],
         "body": [],
+        "headline": "",
+        "date": "",
+        "byline": "",
+        "pages": {
+          "page_0_link": "",
+          "page_0_title": "",
+          "page_0_cover_img": "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/FRMDASKKIZDODGXRWX6QS7WZ6Q.jpg",
+          "page_0_cover_caption": "",
+          "page_0_heading": "",
+          "page_0_date": "",
+          "page_0_byline": "",
+          "page_1_link": "",
+          "page_1_title": "",
+          "page_1_cover_img": "",
+          "page_1_cover_caption": "",
+          "page_1_heading": "",
+          "page_1_date": "",
+          "page_1_byline": "",
+          "page_2_link": "",
+          "page_2_title": "",
+          "page_2_cover_img": "",
+          "page_2_cover_caption": "",
+          "page_2_heading": "",
+          "page_2_byline": "",
+          "page_2_date": "",
+          "page_3_link": "",
+          "page_3_title": "",
+          "page_3_cover_img": "",
+          "page_3_cover_caption": "",
+          "page_3_heading": "",
+          "page_3_byline": "",
+          "page_3_date": ""
+        },
+        "bodies": {
+          "page_0": [
+            {
+              "type": "text",
+              "value": "Kobe Pereira, a first-year student at the Mailman School of Public Health, was dressed for the weather when he walked into the Augustus C. Long Health Sciences Library on Sept. 26. It was nearly 75 degrees, and Pereira, who was planning on meeting up with some friends in a park later that day, had changed into a brown halter top before entering the library to study."
+            },
+            {
+              "type": "subhed",
+              "value": "test"
+            }
+          ],
+          "page_1": [],
+          "page_2": [],
+          "page_3": []
+        },
         "USE_NEWS_NAV": true,
         "USE_EYE_NAV": false,
         "USE_COVER_HED": false,
         "IS_EMBED": false,
-        "DOC_URL": null
+        "DOC_URL": "https://docs.google.com/document/d/1btnUMzi-06HNEWar1Lh3cKOCghy8zmznLarRfG4V-l0/edit?usp=sharing"
       }
     }
   }
