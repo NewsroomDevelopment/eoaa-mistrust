@@ -8,53 +8,409 @@
       "locals": {
         "top": [],
         "body": [],
-        "headline": "",
-        "date": "",
-        "byline": "",
+        "Intro": "The EOAA Office dropped, informally resolved, or sided with the accused over 95 percent of the time in the 2018-2019 academic year.",
+        "headline": "Under the Rug: Can a University really investigate itself?",
+        "date": "Jan. 30, 2021",
+        "byline": "Irie Sentner",
         "pages": {
           "page_0_link": "",
-          "page_0_title": "",
-          "page_0_cover_img": "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/FRMDASKKIZDODGXRWX6QS7WZ6Q.jpg",
-          "page_0_cover_caption": "",
-          "page_0_heading": "",
+          "page_0_title": "Under the Rug: Can a University really investigate itself?",
+          "page_0_cover_img": "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/Y5M6VOBHXZD7JIKYAISLJNMV7I.jpg",
+          "page_0_cover_caption": "Samantha Camacho / Senior Staff Photographer",
+          "page_0_heading": "Intro",
           "page_0_date": "",
-          "page_0_byline": "",
+          "page_0_byline": "By Irie Sentner",
           "page_1_link": "",
-          "page_1_title": "",
-          "page_1_cover_img": "",
-          "page_1_cover_caption": "",
-          "page_1_heading": "",
+          "page_1_title": "Part 1: The Dean",
+          "page_1_cover_img": "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/JUEA2IV2VFHNHBQJIYIK2GOSQI.jpg",
+          "page_1_cover_caption": "Gabi Levy / Staff Photographer",
+          "page_1_heading": "Part 1: The Dean",
           "page_1_date": "",
-          "page_1_byline": "",
+          "page_1_byline": "By Irie Sentner",
           "page_2_link": "",
-          "page_2_title": "",
+          "page_2_title": "Part 2: The Advisor",
           "page_2_cover_img": "",
-          "page_2_cover_caption": "",
-          "page_2_heading": "",
-          "page_2_byline": "",
+          "page_2_cover_caption": "“From anywhere … I tried to survive, any place I could try to create a space of peace for myself, he came and destroyed it.”",
+          "page_2_heading": "Part 2: The Advisor",
+          "Page_2_byline": "By Irie Sentner",
           "page_2_date": "",
           "page_3_link": "",
-          "page_3_title": "",
+          "page_3_title": "Part 3: The Contract",
           "page_3_cover_img": "",
-          "page_3_cover_caption": "",
-          "page_3_heading": "",
-          "page_3_byline": "",
+          "page_3_cover_caption": "Caitlin Buckley / Staff Photographer",
+          "page_3_heading": "Part 3: The Contract",
+          "Page_3_byline": "By Irie Sentner",
           "page_3_date": ""
         },
         "bodies": {
           "page_0": [
             {
               "type": "text",
-              "value": "Kobe Pereira, a first-year student at the Mailman School of Public Health, was dressed for the weather when he walked into the Augustus C. Long Health Sciences Library on Sept. 26. It was nearly 75 degrees, and Pereira, who was planning on meeting up with some friends in a park later that day, had changed into a brown halter top before entering the library to study."
+              "value": "A dean polices a nonbinary student’s clothing in public."
+            },
+            {
+              "type": "text",
+              "value": "A doctoral candidate’s advisor overworks her until she becomes physically ill, asks her to babysit his children, and then attempts to dismiss her from her position."
+            },
+            {
+              "type": "text",
+              "value": "Again and again, power imbalances between faculty and students manifest themselves in the form of alleged discrimination, harassment, and abuse, reported to the University’s Office of Equal Opportunity and Affirmative Action."
+            },
+            {
+              "type": "text",
+              "value": "And time after time, the EOAA Office, which is tasked with preventing and responding to discrimination and harassment, sides with faculty over students."
             },
             {
               "type": "subhed",
-              "value": "test"
+              "value": "Under the Rug: Can a University really investigate itself?"
+            },
+            {
+              "type": "text",
+              "value": "The EOAA Office found that its policies around sexual harassment, discrimination, and retaliation had been violated in just 3 percent of cases in the 2018-19 academic year. According to the most recent <a href=\"https://eoaa.columbia.edu/sites/default/files/content/docs/EOAA-2019-20-Annual-Report-REV-11-19-20.pdf\">EOAA Annual Report</a> filed for the 2019-20 academic year, of the 23 reports of gender-based misconduct the EOAA reviewed, only four resulted in a finding of policy violation and only one was dismissed due to lack of evidence. The report does not include information on the outcomes of cases concerning other types of discrimination and harassment."
+            },
+            {
+              "type": "text",
+              "value": "These findings come as the University–and society more broadly–reckons with anti-Blackness and sexual misconduct through the Black Lives Matter and #MeToo movements. During the 2019-20 academic year, the “EOAA received 398 allegations of discrimination and discriminatory harassment, up 28 percent from the 310 allegations reported in 2018–2019.” Of these allegations, 102 involved race or skin color—an 82 percent increase from the year before—and 79 involved sexual harassment."
+            },
+            {
+              "type": "text",
+              "value": "For years, the Student-Workers of Columbia-United Auto Workers has pushed for neutral arbitration for cases of discrimination, harassment, and Title IX, citing what it  calls a pattern of institutional failure to protect student survivors over tenured faculty. Now, on the precipice of a contract with unprecedented arbitration privileges, student-workers are hopeful for increased workplace protections."
+            },
+            {
+              "type": "text",
+              "value": "But for the non-student-workers who must still go through the EOAA without the promise of neutral arbitration, the question remains: Can a university really investigate itself?"
+            },
+            {
+              "type": "text",
+              "value": "<i>News Editor </i><i>Irie Sentner </i><i>can be contacted at </i><i>irie.sentner@columbiaspectator.com</i><i>. Follow him on Twitter </i><a href=\"https://twitter.com/iriesentner\"><i>@iriesentner</i></a><i>.</i>"
+            },
+            {
+              "type": "text",
+              "value": "<b><i>Want to keep up with breaking news? Subscribe to our </i></b><a href=\"https://columbiaspectator.us4.list-manage.com/subscribe?u=a3d2eeb1ae5560ca04f82f042&id=e51c51d62d\"><b><i>email newsletter </i></b></a><b><i>and like Spectator on </i></b><a href=\"https://www.facebook.com/columbiaspectator\"><b><i>Facebook</i></b></a><b><i>.</i></b>"
             }
           ],
-          "page_1": [],
-          "page_2": [],
-          "page_3": []
+          "page_1": [
+            {
+              "type": "text",
+              "value": "Kobe Pereira, Public Health, was dressed for the weather when he walked into the Augustus C. Long Health Sciences Library on Sept. 26. It was nearly 75 degrees, and Pereira, who was planning on meeting up with some friends in a park later that day, had changed into a brown halter top before entering the library to study."
+            },
+            {
+              "type": "text",
+              "value": "“People turned around to look at him, but nobody said anything,” Jazmin Lopez, Public Health ’23, who was studying with Pereira, said. “They just kind of noticed … in my head, [Pereira] had a really cute outfit.”"
+            },
+            {
+              "type": "text",
+              "value": "After about 10 minutes of studying, however, Pereira and Lopez were approached by a woman who they would later identify as ​​Anna Getselman, the associate dean of the library. Getselman, who reportedly spoke “loud enough for people nearby to hear,” told Pereira, who identifies as transgender and nonbinary, “You should put on a shirt. You are in a public space and you need to cover up” according to a bias report Pereira later submitted to Mailman’s Office of Diversity, Culture, and Inclusion."
+            },
+            {
+              "type": "text",
+              "value": "“I was confused. I was like, ‘Are you talking to me? I don’t understand what’s going on,’” Pereira said."
+            },
+            {
+              "type": "text",
+              "value": "Pereira said he told Getselman that he was “not causing any harm” and that “I should be able to express my gender identity in the ways that make me comfortable.”"
+            },
+            {
+              "type": "text",
+              "value": "“[H]er comments felt transphobic [and] targeted specifically toward me, one of few Black individuals in the room,” he wrote in the bias report."
+            },
+            {
+              "type": "text",
+              "value": "“I was very shaken up, very spooked, because we weren’t doing anything,” Lopez said. “We weren’t bothering anybody. We weren’t being loud. We weren’t disrupting, [Kobe was] just existing, and this lady came up to us, specifically Kobe, and targeted [him].”"
+            },
+            {
+              "type": "text",
+              "value": "After listening to their objections, Pereira and Lopez said Getselman “rolled her eyes and walked away.”"
+            },
+            {
+              "type": "text",
+              "value": "“I was embarrassed. I felt humiliated,” Pereira said. “All these students [were staring] at me and what I was wearing. … I felt like it was very inappropriate for her to come up to me in front of everybody and be like, ‘Oh, I’m going to police what you’re wearing today.’”"
+            },
+            {
+              "type": "text",
+              "value": "For Pereira, the fact that the incident occurred on Mailman’s campus felt especially significant."
+            },
+            {
+              "type": "text",
+              "value": "“I get harassed on the street all the time,” Pereira said. “I wasn’t shocked at how it was said; I was shocked by it being said in … an environment where I’m supposed to feel safe, where I’m supposed to be able to study on a campus that promotes diversity and inclusion.”"
+            },
+            {
+              "type": "text",
+              "value": "Pereira filed a bias report through Mailman’s Office of Diversity, Culture, and Inclusion the next day. He was contacted by an officer who told him that the “process is grounded in restorative justice, and the writing of this report will not result in retaliatory actions,” according to documents obtained by Spectator."
+            },
+            {
+              "type": "text",
+              "value": "The Office also gave Pereira the option to launch an investigation outside of Mailman through the University’s Office of Equal Opportunity and Affirmative Action, which he decided to do."
+            },
+            {
+              "type": "text",
+              "value": "“I don’t want to let this go. It’s not okay that she did this,” he said. “I am tired of these people in positions of power always getting away with things. It’s really irritating to me. So I want[ed] to … go forward with the investigation.”"
+            },
+            {
+              "type": "text",
+              "value": "And then he waited. Although Pereira said that the officer with whom he filed the initial complaint told him that he would be contacted by the EOAA by the end of the week of Oct. 12, Pereira heard nothing. He reached out to the Mailman DCI again on Oct. 18, and the officer replied, “I understand why you are so frustrated and fearful, especially given the lack of reassurance from EOAA. We are following up again with them today to see what’s going on and why this process is unfolding in this way.”"
+            },
+            {
+              "type": "subhed",
+              "value": "“For this to happen in a campus building by a dean—by the director of a library that I study in all the time–it was unsettling.”"
+            },
+            {
+              "type": "text",
+              "value": "Pereira was finally contacted by an EOAA officer on Nov. 1, over a month after the incident occurred. Pereira and a professor he had selected as his advocate met with the officer over Zoom on Nov. 8. During the meeting, Pereira was told <a href=\"https://www.columbiaspectator.com/news/2016/10/28/controversy-around-policy-prohibiting-students-recording-gender-based-misconduct-0/\">not to record the meeting</a> and that he would not be allowed to speak directly with his advocate unless they both entered a separate breakout room."
+            },
+            {
+              "type": "text",
+              "value": "“Why am I having this extra person here as support if I can’t get supported by them?” Pereira said."
+            },
+            {
+              "type": "text",
+              "value": "Pereira said that the EOAA officer told him that in most similar situations the office does not require “hard evidence” and instead can “just … take your words [as] evidence and your witnesses [as] evidence.” Lopez, who was present during the altercation, also met with the investigator to deliver her testimony as a witness. Pereira recalled being confused; he knew hard evidence of the interaction existed and worried about the implications of this policy because of the power imbalance present between himself as a student and Getselman as a dean."
+            },
+            {
+              "type": "text",
+              "value": "“You can clearly go into the cameras … and see that she approached me and how I was visibly upset and my friend I was sitting with … was visibly upset,” Pereira said. “At that point, I don’t trust that you’re going to go in good faith with this investigation. … It’s going to be my word against hers.”"
+            },
+            {
+              "type": "text",
+              "value": "On Dec. 20, Pereira received a letter from the EOAA stating that, “Based on a preponderance of evidence standard, EOAA determined that [Getselman] did not violate” the EOAA’s discrimination policy. The policy defines discrimination as “treating members of a protected class less favorably because of their membership in that class or having a neutral policy or practice that adversely impacts the members of one protected class more than others.”"
+            },
+            {
+              "type": "text",
+              "value": "“It was really irritating, once again, because it’s not something new. I am discriminated against on the street all the time [with] slurs, physical harassment, things like that,” Pereira said. “For this to happen in a campus building by a dean—by the director of a library that I study in all the time—it was unsettling.”"
+            },
+            {
+              "type": "text",
+              "value": "The University declined to comment on the outcome of the Getselman case because it does not comment on the outcomes of individual EOAA cases."
+            },
+            {
+              "type": "text",
+              "value": "All University personnel, including faculty, staff, researchers, librarians, contractors, and student-workers, are required by law to complete the New York Anti-Sexual Harassment Training. The training underscores the EOAA’s “commitment to … ensure that every member of this community has an equal opportunity to enjoy a productive learning and working environment [which includes] an environment free from sexual harassment and other forms of discrimination.”"
+            },
+            {
+              "type": "text",
+              "value": "The training includes “harassment on the basis of self-identified or perceived … sexual orientation … gender expression … gender identity, and the status of being transgender, gender non-conforming, or nonbinary” within its definition of sexual harassment."
+            },
+            {
+              "type": "text",
+              "value": "The University was unable to comment on whether Getselman was required to attend any additional training after the case, including antiracism or implicit bias training."
+            },
+            {
+              "type": "text",
+              "value": "The EOAA finding noted that Getselman “​​was advised that she is prohibited from engaging in retaliation, on her own or through a third party, against anyone involved in the investigation.” But Pereira, who studies at Hammer library often, sees Getselman “all the time” and worries about the consequences of the investigation."
+            },
+            {
+              "type": "text",
+              "value": "“It makes me extremely, extremely anxious and unsettled knowing that she knows who I am,” he said."
+            },
+            {
+              "type": "text",
+              "value": "<i>Dean Getselman</i><i> could not be reached for comment at the time of publication. </i>"
+            },
+            {
+              "type": "text",
+              "value": "<i>Continue reading Part 2, which follows a doctoral candidate through years of difficulty with the EOAA. </i>"
+            },
+            {
+              "type": "text",
+              "value": "<i>News Editor Irie Sentner can be contacted at </i><i>irie.sentner@columbiaspectator.com</i><i>. Follow him on Twitter </i><a href=\"https://twitter.com/iriesentner\"><i>@iriesentner</i></a><i>.</i>"
+            },
+            {
+              "type": "text",
+              "value": "<b><i>Want to keep up with breaking news? Subscribe to our </i></b><a href=\"https://columbiaspectator.us4.list-manage.com/subscribe?u=a3d2eeb1ae5560ca04f82f042&id=e51c51d62d\"><b><i>email newsletter </i></b></a><b><i>and like Spectator on </i></b><a href=\"https://www.facebook.com/columbiaspectator\"><b><i>Facebook</i></b></a><b><i>.</i></b>"
+            }
+          ],
+          "page_2": [
+            {
+              "type": "text",
+              "value": "Jane, a recent doctoral graduate, had been serving as a teaching assistant for her advisor for just two weeks when he abruptly left the country. She was suddenly left to act as the course’s primary lecturer and teaching assistant—all while covering another graduate-level course her advisor had asked her to teach before he left."
+            },
+            {
+              "type": "text",
+              "value": "Jane, who spoke to Spectator on the condition of anonymity and is being identified by a pseudonym because of fear of University retaliation in ongoing investigations, felt like she had to work “two full-time jobs.” Leading two classes was made more difficult by the fact that the course material was not her field of expertise and she had not created the syllabus."
+            },
+            {
+              "type": "text",
+              "value": "“It was insane,” she said. “The load of work was insane.”"
+            },
+            {
+              "type": "text",
+              "value": "After the unexpected overload made Jane so stressed that she became physically ill, she verbally complained to a leader in her department, who did not know that her advisor had left the country. Instead of investigating the complaint or the professor’s sudden absence, however, the department reportedly assigned Jane as a TA for his course again. Jane felt like she “had no option.” She took a medical leave, losing her only source of income and eventually her University housing."
+            },
+            {
+              "type": "text",
+              "value": "When Jane came back the following September, her funding was cut entirely and she received no TA assignment because she was in her seventh year."
+            },
+            {
+              "type": "text",
+              "value": "And then, Jane said things got worse. In what Jane believes to be an act of retaliation, her advisor attempted to terminate her, citing a University policy that seventhyear doctoral candidates who have not completed a thesis can be dismissed. Jane had emailed her advisor chapters of her thesis months before he attempted to terminate her and had fallen behind because of the increased workload she took on in covering for him. She went to the University’s Office of Equal Opportunity and Affirmative Action."
+            },
+            {
+              "type": "text",
+              "value": "Before starting the investigation, however, the EOAA offered to pay Jane instead of investigating the case and sent a request to the Graduate School of Arts and Sciences for Jane to be compensated for her extra work. Jane believes that a preponderance of evidence—emails and course reviews from disappointed students, for example—meant that the administration could not easily dismiss the case, so they attempted to pay her off instead."
+            },
+            {
+              "type": "text",
+              "value": "“They offered that they will pay me, but they will not investigate the case, which basically means from the start, they had a tendency to actually push this under the rug. So they want to just push it away,” she said."
+            },
+            {
+              "type": "text",
+              "value": "She received payment for her extra work done during the 2017-2018 academic year in December 2021."
+            },
+            {
+              "type": "text",
+              "value": "Jane was angry and insisted that the EOAA investigate her case, claiming that she had been discriminated against based on the intersection of her nationality and gender. Jane said that although the EOAA told her hat an investigator would soon reach out, one never did."
+            },
+            {
+              "type": "text",
+              "value": "She filed another complaint, and “due to [her] concerns regarding EOAA’s handling of [her] previous allegations,” the EOAA referred the complaint to Andrew Schilling, an outside investigator."
+            },
+            {
+              "type": "text",
+              "value": "Jane did not know that Schilling has served as the University’s legal counsel on several occasions. In Doe v. The Trustees of Columbia University—a case in which the plaintiff alleges that the Board of Trustees, President Lee Bollinger, General Council Jane Booth, and Schilling violated the Rehabilitation Act, the Americans with Disabilities Act, and the New York City Human Rights Law by issuing the incorrect form to a person with Asperger’s syndrome—Schilling is referred to as “Columbia University's attorney.”"
+            },
+            {
+              "type": "text",
+              "value": "According to EOAA <a href=\"https://eoaa.columbia.edu/sites/default/files/content/EOAA%20Policies%20and%20Procedures%20Updated%20092021.pdf\">policies and procedures</a>, “The investigator(s) will be impartial and unbiased and treat Complainants and Respondents equitably. … Should a Party perceive a potential or actual conflict of interest or bias related to the investigator(s), the Party is expected to promptly raise such conflict in writing to the Vice Provost for EOAA. Jane never raised such a complaint because she was unaware at the time of Schilling’s affiliation with the University."
+            },
+            {
+              "type": "text",
+              "value": "The EOAA ultimately determined that Jane’s advisor had not violated University policy and informed Jane that the University operates under the “convention” that teaching assistants are expected to cover for absent professors, even for an entire semester. Members of Jane’s department who served as witnesses during the investigation confirmed that this convention exists, but said that Jane was the only example they had seen of it being used."
+            },
+            {
+              "type": "text",
+              "value": "“A professor can actually exploit me, and you say it’s a convention. He can defame me, and you say it’s not a violation. And he can lie, and again; it’s not a violation,” Jane said. “It’s not a university; it’s hell.”"
+            },
+            {
+              "type": "subhed",
+              "value": "“From anywhere … I tried to survive, any place I could try to create a space of peace for myself, he came and destroyed it.”"
+            },
+            {
+              "type": "text",
+              "value": "The EOAA determined that the advisor’s actions did not represent a power imbalance because he felt as if their relationship was friendly in nature, citing the fact that Jane and the advisor's wife had interacted on social media. Jane’s advisor “used [her] as a help” for his family, asking her to watch his children and cat. In addition, Jane said she posed twice for unpaid modeling photos for her advisor’s wife’s business, at her advisor’s request. Once, her advisor “screamed” at her and “called her a murderer,” because she had called him while he was driving."
+            },
+            {
+              "type": "text",
+              "value": "“I was not a friend because … someone who can terminate you is not your friend, someone who has the capability of terminating you and you always know that possibility is there is really not your friend, [he] is your boss,” Jane said. “He was my boss, and in fact, he tried to terminate me.”"
+            },
+            {
+              "type": "text",
+              "value": "After her search for justice from her advisor, Jane now believes the EOAA’s “whole process is based on … dismissing” cases brought against University faculty. Although Jane no longer works or studies at Columbia, she still worries about her advisor’s ability to influence her academic reputation wherever she goes."
+            },
+            {
+              "type": "text",
+              "value": "“Columbia is a very, very scary place,” Jane said. “I regret every second of the time I spent there, and I’m very, very scared for anyone who actually steps [foot] there because so many bad things happened to me … [and] I had no control over it.”"
+            },
+            {
+              "type": "text",
+              "value": "<i>The University does not comment on the outcome of individual cases within the EOAA.</i>"
+            },
+            {
+              "type": "text",
+              "value": "<i>Continue reading Part 3,</i> <i>in which Spectator unpacks the origins of the fight for neutral arbitration and the promise of a new contract. </i>"
+            },
+            {
+              "type": "text",
+              "value": "<i>News Editor </i><i>Irie Sentner</i><i> can be contacted at </i><i>irie.sentner@columbiaspectator.com</i><i>. Follow him on Twitter </i><a href=\"https://twitter.com/iriesentner\"><i>@iriesentner</i></a><i>.</i>"
+            },
+            {
+              "type": "text",
+              "value": "<b><i>Want to keep up with breaking news? Subscribe to our </i></b><a href=\"https://columbiaspectator.us4.list-manage.com/subscribe?u=a3d2eeb1ae5560ca04f82f042&id=e51c51d62d\"><b><i>email newsletter </i></b></a><b><i>and like Spectator on </i></b><a href=\"https://www.facebook.com/columbiaspectator\"><b><i>Facebook</i></b></a><b><i>.</i></b>"
+            }
+          ],
+          "page_3": [
+            {
+              "type": "text",
+              "value": "After 10 weeks on strike, 15 days of discussion, and six days of voting, the Student Workers of Columbia-United Auto Workers are poised to ratify its <a href=\"https://www.columbiaspectator.com/news/2022/01/07/after-reaching-tentative-agreement-with-university-swc-has-voted-to-end-strike/\">first contract</a>. The contract gives student workers the right to request neutral, third-party arbitration in cases of alleged discrimination, harassment, or Title IX violations after completing the University’s Equal Opportunity and Affirmative appeals process."
+            },
+            {
+              "type": "text",
+              "value": "The policy, which mirrors the one offered to postdoctoral workers at the University, is unprecedented in higher education contracts. At Harvard University, where student workers ratified a contract after just three days on strike, cases of Title IX are not arbitrable. At Columbia’s bargaining table, the University long maintained that Title IX arbitration could be illegal until the union allowed for the exhaustion of the existing Title IX process prior to the election of arbitration and the University made a last-hour shift to include it in its “final offer.”"
+            },
+            {
+              "type": "text",
+              "value": "Neutral arbitration has been a hard-fought union issue for years. In the spring of 2021, the University refused to budge on the question, and the bargaining committee chose to accept a tentative agreement without arbitration. The fact that the spring tentative agreement failed to address the demand for third-party arbitration was a major reason that union membership voted to reject the contract and strike again the following semester."
+            },
+            {
+              "type": "text",
+              "value": "​​<i>[Read more: </i><a href=\"https://www.columbiaspectator.com/news/2021/03/25/columbia-still-refuses-to-give-the-gwc-uaw-neutral-third-party-arbitration-is-this-indicative-of-a-deeper-institutional-issue/\"><i>Columbia still refuses to give the GWC-UAW neutral, third-party arbitration. Is this indicative of a deeper institutional issue?</i></a><i>]</i>"
+            },
+            {
+              "type": "text",
+              "value": "Jared Sacks, a sixth-year doctoral student in the Middle Eastern, South Asian, and African Studies department, said that the need for neutral arbitration was a catalyst for the union’s formation."
+            },
+            {
+              "type": "text",
+              "value": "“It’s something that’s been important to members of the union … since the beginning of our organizing,” he said. “One of the key reasons why we formed the union was because we have such little power in relation to faculty and administration when dealing with issues of abuse and harassment.”"
+            },
+            {
+              "type": "text",
+              "value": "A deep mistrust of the EOAA has been central to such conversations about abuse."
+            },
+            {
+              "type": "text",
+              "value": "“My view and the view of many others is that the EOAA process was used and has been used for many, many years as a way to sweep this stuff under the rug and for Columbia to protect the most powerful members of the University,” Sacks said."
+            },
+            {
+              "type": "text",
+              "value": "During the strike in spring 2021, Lindsey Boylan, Business ’12, a then-candidate for Manhattan Borough President who alleged that former Gov. Andrew Cuomo had sexually harassed her spoke to a crowd of striking workers about the need for neutral arbitration."
+            },
+            {
+              "type": "text",
+              "value": "“Columbia’s EOAA has a long public history of failing to provide real resources to discrimination and harassment,” Boylan shouted to the crowd. “Columbia thinks that [it] can be judge, jury, and investigator when it comes to holding themselves accountable for workplace discrimination and harassment.”"
+            },
+            {
+              "type": "text",
+              "value": "“Any number of recent examples within the institution and beyond show us that we can’t trust the University’s internal mechanism to take care of itself,” she told Spectator."
+            },
+            {
+              "type": "text",
+              "value": "The University maintains that the EOAA always seeks equitable and just resolution and that the SWC—UAW’s tentative agreement will strengthen this goal."
+            },
+            {
+              "type": "subhed",
+              "value": "“Obviously, we still can't rely on the University to just do the right thing.”"
+            },
+            {
+              "type": "text",
+              "value": "“Complaints brought to the University's Office of Equal Opportunity and Affirmative Action typically are contested, and their resolution can be expected to leave one of the parties unhappy with the outcome. The office’s experienced and dedicated staff always seek a fair resolution based on the facts before them. The Tentative Agreement reached with SWC-UAW, once ratified, will provide an opportunity to strengthen the University’s handling of claims of discrimination and harassment, and we look forward to working toward that goal,” a University spokesperson wrote in a statement to Spectator."
+            },
+            {
+              "type": "text",
+              "value": "But although Sacks is “relatively hopeful” that the contract will help resolve the issues present within the EOAA, he said he doesn’t think the provisions will “solve the problem completely.”"
+            },
+            {
+              "type": "text",
+              "value": "“Obviously, we still can’t rely on the University to just do the right thing,” he said. “And so even with these kinds of protections in place, we'll still have to apply pressure to make sure that they’re taken seriously and to ensure that everything’s done the right way, and the University doesn’t cut corners.”"
+            },
+            {
+              "type": "text",
+              "value": "One reason why student workers are still critical of the provision’s effectiveness is because of underreporting, an issue that is prevalent on campuses nationwide. Sacks said he has been “treated in a way that is unprofessional” and “abusive,” which “in any other workplace,” would have caused him to go “straight to HR.”"
+            },
+            {
+              "type": "text",
+              "value": "“It’s tolerated because the University has some kind of ideology which claims that the University is somehow different in the relationship between faculty and students, and faculty [and] student workers,” he said."
+            },
+            {
+              "type": "text",
+              "value": "Sacks said that often, this culture has caused cases of abuse and harassment to go unreported because student-workers do not “recognize it as abuse or harassment” in the first place."
+            },
+            {
+              "type": "text",
+              "value": "While arbitration is a win for student-workers, undergraduate and graduate students who are not employed by the University will still have the EOAA as their only recourse, as Kobe Pereira experienced when he brought his complaint against Dean Getselman."
+            },
+            {
+              "type": "text",
+              "value": "“This can happen to anybody, and when things go wrong, the University can actually victimize you further,” Jane said. “There is no justice and there’s no way to prevent that. It can completely crush you.”"
+            },
+            {
+              "type": "text",
+              "value": "<i>News Editor </i><i>Irie Sentner</i><i> can be contacted at </i><i>irie.sentner@columbiaspectator.com</i><i>. Follow him on Twitter </i><a href=\"https://twitter.com/iriesentner\"><i>@iriesentner</i></a><i>.</i>"
+            },
+            {
+              "type": "text",
+              "value": "<b><i>Want to keep up with breaking news? Subscribe to our </i></b><a href=\"https://columbiaspectator.us4.list-manage.com/subscribe?u=a3d2eeb1ae5560ca04f82f042&id=e51c51d62d\"><b><i>email newsletter </i></b></a><b><i>and like Spectator on </i></b><a href=\"https://www.facebook.com/columbiaspectator\"><b><i>Facebook</i></b></a><b><i>.</i></b>"
+            }
+          ]
         },
         "USE_NEWS_NAV": true,
         "USE_EYE_NAV": false,
