@@ -1,5 +1,5 @@
 <header class="g-body">
-  <h1 id="headline">{{ headline }}</h1>
+  <h1 id="headline" class="head_big">{{ headline }}</h1>
   <if condition="typeof deck !== 'undefined'">
     <p class="deck">{{ deck }}</p>
   </if>
@@ -7,7 +7,7 @@
     <each
       loop="item in typeof byline === 'undefined' ? [] : byline.split('\n')"
     >
-      <span>{{{ item }}}</span>
+      <span>By: {{{ item }}}</span>
     </each>
   </p>
   <p class="pub-date">{{ date }}</p>

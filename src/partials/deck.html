@@ -1,0 +1,16 @@
+<div class="deck-overlay">
+  <div class="cover cover-hed">
+    <img src="{{ pages['page_' + pageNum + '_cover_img'] }}" />
+  </div>
+  <div class="step-deck" id="step-deck" style="letter-spacing: 0.5px">
+    <each loop="step in bodies['deck'][0].value">
+      <div class="video-step">
+        <p>{{{ step }}}</p>
+      </div>
+    </each>
+  </div>
+
+  <p class="cover-caption">
+    {{{ pages['page_' + pageNum + '_cover_caption'] }}}
+  </p>
+</div>

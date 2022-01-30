@@ -51,9 +51,23 @@ body {
   margin: 0;
 }
 
-h1, p {
+h1,
+p {
   -webkit-font-smoothing: antialiased;
   color: #121212;
+}
+
+.head_big {
+  font-size: 56px;
+  line-height: 1;
+  margin: 0 0 14px;
+  text-align: center;
+  font-weight: 700;
+  font-family: 'Playfair Display';
+
+  @media (max-width: 500px) {
+    font-size: 35px;
+  }
 }
 
 a {
@@ -81,6 +95,16 @@ b {
     object-fit: cover;
   }
 }
+.deck-overlay {
+  .cover {
+    position: sticky;
+    position: -webkit-sticky;
+    top: 0;
+    left: 0;
+    z-index: 0;
+    margin-bottom: 0;
+  }
+}
 
 .cover-hed {
   margin-bottom: 0px;
@@ -92,8 +116,9 @@ b {
     transform: translateY(-40vh);
     align-items: center;
 
-    p, h1 {
-       color: #fff;
+    p,
+    h1 {
+      color: #fff;
     }
 
     .byline {
@@ -139,6 +164,21 @@ b {
 
   a {
     color: #888;
+  }
+}
+
+.video-step {
+  padding-bottom: 90vh;
+
+  p {
+    background-color: rgba(0, 0, 0, 0.66);
+    font-family: $georgia;
+    font-size: 22px;
+    font-weight: 400;
+    line-height: 1.45;
+    color: #fff;
+    max-width: 540px;
+    padding: 11px 17px;
   }
 }
 
@@ -207,7 +247,6 @@ header {
   flex-direction: column;
   align-items: center;
   margin: 0;
-  margin-bottom: 30px;
 
   span {
     font-weight: 600;
@@ -226,24 +265,8 @@ header {
   display: flex;
   flex-direction: column;
   align-items: center;
-  margin-top: -35vh;
+  margin-top: -50vh;
   padding-bottom: 10vh;
-}
-
-.video-step {
-  padding-bottom: 90vh;
-  margin-bottom: 0;
-
-  p {
-    background-color: white;
-    padding: 0 7px 7px;
-    font-family: Playfair Display;
-    font-size: 36px;
-    font-weight: 400;
-    line-height: 1.63;
-    text-align: center;
-    box-decoration-break: clone;
-  }
 }
 
 .g-body {
@@ -277,7 +300,7 @@ header {
   position: fixed;
   background-color: #ffffff;
   z-index: 1000;
-  transition-duration: .2s;
+  transition-duration: 0.2s;
   box-shadow: $navbar-shadow;
 }
 
@@ -292,7 +315,8 @@ header {
     border-bottom: 3px solid transparent;
     transition: border $fade-transition-duration;
 
-    &.nav-link-highlighted, &:hover {
+    &.nav-link-highlighted,
+    &:hover {
       border-bottom: 3px solid #fff;
     }
 
@@ -348,7 +372,9 @@ header {
 }
 
 #navbar:not(.show-nav-links) {
-  .hamburger, .hamburger-btn:after, .hamburger-btn:before {
+  .hamburger,
+  .hamburger-btn:after,
+  .hamburger-btn:before {
     background-color: #111;
     height: 2px;
     margin-bottom: 4px;
@@ -356,13 +382,13 @@ header {
   }
 
   .hamburger-btn:after {
-    content: "";
+    content: '';
     display: block;
     margin-bottom: 0;
   }
 
   .hamburger-btn:before {
-    content: "";
+    content: '';
     display: block;
   }
 }
@@ -427,7 +453,8 @@ header {
 
   #navbar.show-nav-links {
     .hamburger-btn {
-      background: url('data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMC4yOSAxMi4zIj48ZGVmcz48c3R5bGU+LmNscy0xe2ZpbGw6bm9uZTtzdHJva2U6Izk5OTtzdHJva2UtbWl0ZXJsaW1pdDoxMDt9PC9zdHlsZT48L2RlZnM+PHRpdGxlPmljb24tY2xvc2U8L3RpdGxlPjxnIGlkPSJMYXllcl8yIiBkYXRhLW5hbWU9IkxheWVyIDIiPjxnIGlkPSJMYXllcl8xLTIiIGRhdGEtbmFtZT0iTGF5ZXIgMSI+PGxpbmUgY2xhc3M9ImNscy0xIiB4MT0iMC4zOSIgeTE9IjAuMzIiIHgyPSI5LjkiIHkyPSIxMS45OSIvPjxsaW5lIGNsYXNzPSJjbHMtMSIgeDE9IjAuMzkiIHkxPSIxMS45OSIgeDI9IjkuOSIgeTI9IjAuMzIiLz48L2c+PC9nPjwvc3ZnPg==') no-repeat 50% content-box;
+      background: url('data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMC4yOSAxMi4zIj48ZGVmcz48c3R5bGU+LmNscy0xe2ZpbGw6bm9uZTtzdHJva2U6Izk5OTtzdHJva2UtbWl0ZXJsaW1pdDoxMDt9PC9zdHlsZT48L2RlZnM+PHRpdGxlPmljb24tY2xvc2U8L3RpdGxlPjxnIGlkPSJMYXllcl8yIiBkYXRhLW5hbWU9IkxheWVyIDIiPjxnIGlkPSJMYXllcl8xLTIiIGRhdGEtbmFtZT0iTGF5ZXIgMSI+PGxpbmUgY2xhc3M9ImNscy0xIiB4MT0iMC4zOSIgeTE9IjAuMzIiIHgyPSI5LjkiIHkyPSIxMS45OSIvPjxsaW5lIGNsYXNzPSJjbHMtMSIgeDE9IjAuMzkiIHkxPSIxMS45OSIgeDI9IjkuOSIgeTI9IjAuMzIiLz48L2c+PC9nPjwvc3ZnPg==')
+        no-repeat 50% content-box;
       background-size: 86% auto;
     }
 
@@ -438,8 +465,8 @@ header {
     #nav-links {
       visibility: visible;
       opacity: 1;
-      box-shadow:
-        0 -10px white, // White shadow to mask top box-shadow
+      box-shadow: 0 -10px white,
+        // White shadow to mask top box-shadow
         $navbar-shadow;
       background-color: #fff;
       flex: 1 0 auto;
@@ -536,7 +563,7 @@ header {
     display: flex;
     justify-content: center;
     align-items: center;
-    background: rgba(0,0,0,0.4);
+    background: rgba(0, 0, 0, 0.4);
 
     .caption-text-container {
       max-width: 960px;

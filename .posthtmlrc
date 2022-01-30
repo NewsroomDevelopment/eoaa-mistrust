@@ -14,12 +14,12 @@
         "byline": "Irie Sentner",
         "pages": {
           "page_0_link": "",
-          "page_0_title": "Under the Rug: Can a University really investigate itself?",
+          "page_0_title": "",
           "page_0_cover_img": "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/Y5M6VOBHXZD7JIKYAISLJNMV7I.jpg",
           "page_0_cover_caption": "Samantha Camacho / Senior Staff Photographer",
           "page_0_heading": "Intro",
           "page_0_date": "",
-          "page_0_byline": "By Irie Sentner",
+          "page_0_byline": "",
           "page_1_link": "",
           "page_1_title": "Part 1: The Dean",
           "page_1_cover_img": "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/JUEA2IV2VFHNHBQJIYIK2GOSQI.jpg",
@@ -32,38 +32,29 @@
           "page_2_cover_img": "",
           "page_2_cover_caption": "“From anywhere … I tried to survive, any place I could try to create a space of peace for myself, he came and destroyed it.”",
           "page_2_heading": "Part 2: The Advisor",
-          "Page_2_byline": "By Irie Sentner",
+          "page_2_byline": "By Irie Sentner",
           "page_2_date": "",
           "page_3_link": "",
           "page_3_title": "Part 3: The Contract",
           "page_3_cover_img": "",
           "page_3_cover_caption": "Caitlin Buckley / Staff Photographer",
           "page_3_heading": "Part 3: The Contract",
-          "Page_3_byline": "By Irie Sentner",
+          "page_3_byline": "By Irie Sentner",
           "page_3_date": ""
         },
         "bodies": {
+          "deck": [
+            {
+              "type": "steps",
+              "value": [
+                "A dean polices a nonbinary student’s clothing in public.",
+                "A doctoral candidate’s advisor overworks her until she becomes physically ill, asks her to babysit his children, and then attempts to dismiss her from her position.",
+                "Again and again, power imbalances between faculty and students manifest themselves in the form of alleged discrimination, harassment, and abuse, reported to the University’s Office of Equal Opportunity and Affirmative Action.",
+                "And time after time, the EOAA Office, which is tasked with preventing and responding to discrimination and harassment, sides with faculty over students."
+              ]
+            }
+          ],
           "page_0": [
-            {
-              "type": "text",
-              "value": "A dean polices a nonbinary student’s clothing in public."
-            },
-            {
-              "type": "text",
-              "value": "A doctoral candidate’s advisor overworks her until she becomes physically ill, asks her to babysit his children, and then attempts to dismiss her from her position."
-            },
-            {
-              "type": "text",
-              "value": "Again and again, power imbalances between faculty and students manifest themselves in the form of alleged discrimination, harassment, and abuse, reported to the University’s Office of Equal Opportunity and Affirmative Action."
-            },
-            {
-              "type": "text",
-              "value": "And time after time, the EOAA Office, which is tasked with preventing and responding to discrimination and harassment, sides with faculty over students."
-            },
-            {
-              "type": "subhed",
-              "value": "Under the Rug: Can a University really investigate itself?"
-            },
             {
               "type": "text",
               "value": "The EOAA Office found that its policies around sexual harassment, discrimination, and retaliation had been violated in just 3 percent of cases in the 2018-19 academic year. According to the most recent <a href=\"https://eoaa.columbia.edu/sites/default/files/content/docs/EOAA-2019-20-Annual-Report-REV-11-19-20.pdf\">EOAA Annual Report</a> filed for the 2019-20 academic year, of the 23 reports of gender-based misconduct the EOAA reviewed, only four resulted in a finding of policy violation and only one was dismissed due to lack of evidence. The report does not include information on the outcomes of cases concerning other types of discrimination and harassment."
